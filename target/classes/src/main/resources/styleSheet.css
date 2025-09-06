@@ -1,0 +1,7 @@
+
+.root {
+    -fx-background-image: url("world-equirect.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position:right 0px top 75px;
+    -fx-background-size: 960px 480px;
+}
