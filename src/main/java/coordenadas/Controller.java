@@ -88,6 +88,7 @@ public class Controller {
 
         offsetsReady = true;
     }
+
     private static double clamp(double v, double min, double max) {
         return Math.max(min, Math.min(max, v));
     }

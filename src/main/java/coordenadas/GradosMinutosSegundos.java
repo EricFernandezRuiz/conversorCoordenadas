@@ -79,8 +79,8 @@ public class GradosMinutosSegundos {
         String lngMin = m.group(4);
         String lngSeg = m.group(5);
         String latGrd = m.group(9);
-        String latMin = m.group(11);
-        String latSeg = m.group(12);
+        String latMin = m.group(10);
+        String latSeg = m.group(11);
 
         int lngGrdD = Integer.parseInt(lngGrd);
         int lngMinD = Integer.parseInt(lngMin);
